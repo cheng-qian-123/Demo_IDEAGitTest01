@@ -5,5 +5,6 @@ public class Test01 {
 
     public void go(){
         System.out.println("hehe");
+        System.out.println("hhhhhhhhh");
     }
 }
